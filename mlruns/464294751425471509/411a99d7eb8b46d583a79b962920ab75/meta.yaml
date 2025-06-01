@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464294751425471509/411a99d7eb8b46d583a79b962920ab75/artifacts
+end_time: 1748770954211
+entry_point_name: ''
+experiment_id: '464294751425471509'
+lifecycle_stage: active
+run_id: 411a99d7eb8b46d583a79b962920ab75
+run_name: luminous-owl-524
+run_uuid: 411a99d7eb8b46d583a79b962920ab75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748770953682
+status: 4
+tags: []
+user_id: Kaware's PC

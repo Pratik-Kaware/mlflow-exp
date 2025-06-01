@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464294751425471509/b016b22d6859475d946b87b310c111db/artifacts
+end_time: 1748770775273
+entry_point_name: ''
+experiment_id: '464294751425471509'
+lifecycle_stage: active
+run_id: b016b22d6859475d946b87b310c111db
+run_name: learned-mink-769
+run_uuid: b016b22d6859475d946b87b310c111db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748770775085
+status: 3
+tags: []
+user_id: Kaware's PC

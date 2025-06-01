@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6459f20d3669457bbfc0c605abbb78ea/artifacts
+end_time: 1748761781685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6459f20d3669457bbfc0c605abbb78ea
+run_name: monumental-yak-596
+run_uuid: 6459f20d3669457bbfc0c605abbb78ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748761781506
+status: 3
+tags: []
+user_id: Kaware's PC

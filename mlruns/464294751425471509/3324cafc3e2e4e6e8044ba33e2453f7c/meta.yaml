@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464294751425471509/3324cafc3e2e4e6e8044ba33e2453f7c/artifacts
+end_time: 1748770223517
+entry_point_name: ''
+experiment_id: '464294751425471509'
+lifecycle_stage: active
+run_id: 3324cafc3e2e4e6e8044ba33e2453f7c
+run_name: upbeat-colt-691
+run_uuid: 3324cafc3e2e4e6e8044ba33e2453f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748770223354
+status: 3
+tags: []
+user_id: Kaware's PC

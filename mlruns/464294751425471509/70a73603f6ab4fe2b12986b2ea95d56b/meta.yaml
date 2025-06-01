@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464294751425471509/70a73603f6ab4fe2b12986b2ea95d56b/artifacts
+end_time: 1748770774713
+entry_point_name: ''
+experiment_id: '464294751425471509'
+lifecycle_stage: active
+run_id: 70a73603f6ab4fe2b12986b2ea95d56b
+run_name: suave-jay-636
+run_uuid: 70a73603f6ab4fe2b12986b2ea95d56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748770774592
+status: 3
+tags: []
+user_id: Kaware's PC

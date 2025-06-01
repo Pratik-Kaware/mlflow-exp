@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aaf379fd5ebd4fe8962c5e38ff2c374c/artifacts
+end_time: 1748762653477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaf379fd5ebd4fe8962c5e38ff2c374c
+run_name: classy-yak-863
+run_uuid: aaf379fd5ebd4fe8962c5e38ff2c374c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762653238
+status: 3
+tags: []
+user_id: Kaware's PC

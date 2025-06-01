@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/afa081928abc48abb0a10c764f4285f7/artifacts
+end_time: 1748762651866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afa081928abc48abb0a10c764f4285f7
+run_name: blushing-skunk-282
+run_uuid: afa081928abc48abb0a10c764f4285f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762651698
+status: 3
+tags: []
+user_id: Kaware's PC

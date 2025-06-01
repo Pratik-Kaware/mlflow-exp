@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/464294751425471509/148b0b0fc1764765b0f530f367dc1e3c/artifacts
+end_time: 1748771105576
+entry_point_name: ''
+experiment_id: '464294751425471509'
+lifecycle_stage: active
+run_id: 148b0b0fc1764765b0f530f367dc1e3c
+run_name: invincible-frog-786
+run_uuid: 148b0b0fc1764765b0f530f367dc1e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748771090793
+status: 3
+tags: []
+user_id: Kaware's PC
