@@ -8,7 +8,7 @@ mlflow-tracking-tutorial/
 ├── requirements.txt  # List of dependencies
 ├── README.md         # Project documentation
 └── mlruns/           # MLflow experiment tracking directory (auto-generated)
-
+```
 🧱 Requirements
 
     Python 3.6+
