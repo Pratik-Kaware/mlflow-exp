@@ -1,12 +1,13 @@
-Project Structure
+## 📁 Project Structure
 
+```plaintext
 mlflow-tracking-tutorial/
-├── data/                    # Dataset (optional or downloaded in script)
-├── artifacts/               # Saved models, plots, or logs
-├── experiment.py            # Main experiment script
-├── requirements.txt         # List of dependencies
-├── README.md                # Project documentation
-└── mlruns/                  # MLflow experiment tracking directory (auto-generated)
+├── data/             # Dataset (optional or downloaded in script)
+├── artifacts/        # Saved models, plots, or logs
+├── experiment.py     # Main experiment script
+├── requirements.txt  # List of dependencies
+├── README.md         # Project documentation
+└── mlruns/           # MLflow experiment tracking directory (auto-generated)
 
 🧱 Requirements
 
